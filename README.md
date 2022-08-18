@@ -8,4 +8,8 @@
 - 📫 aslihan.altindal@gmail.com
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?aslihanyenidogan=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=aslihanyenidogan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
