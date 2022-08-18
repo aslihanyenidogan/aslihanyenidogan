@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about Java, SQL
 - 📫 aslihan.altindal@gmail.com
+- ⚡ Fun fact: I love play cello
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aslihanyenidogan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
