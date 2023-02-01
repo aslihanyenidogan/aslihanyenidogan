@@ -42,7 +42,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" />][java]
-
+[<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />][Csharp]
 
 <br />
 
@@ -52,6 +52,7 @@
 [github]: https://github.com/IbrahimTalha0
 [python]: https://www.python.org/
 [java]: https://www.java.com/
+[Csharp]: https://learn.microsoft.com/tr-tr/dotnet/csharp/
 
 
 <br />
